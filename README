@@ -1,1 +1,15 @@
-commit test
+/**
+ * Google Chrome Foxkeh Theme
+ * フォクすけがテーマじゃないとヤル気がでないので作りました。
+ * MacOS X、WindowsXPのChrome7系で動くようです。後は知りません。
+ * 画像はここのものを使ってます。
+ * http://foxkeh.jp/downloads/materials/
+ * http://foxkeh.jp/downloads/parts/
+ *
+ * ライセンスを書くのも書かないのも怒られるので。WTFPLです。
+ * Licensed under the WTFPL (http://sam.zoy.org/wtfpl/).
+ * Date: 2010/10/08
+ * version 0.0.1
+ *
+ */
+
