@@ -1,7 +1,9 @@
 /**
  * Google Chrome Foxkeh Theme
  * フォクすけがテーマじゃないとヤル気がでないので作りました。
- * MacOS X、WindowsXPのChrome7系で動くようです。後は知りません。
+ * MacOS X、WindowsXPのChrome7系で動くようです。
+ * Chrome 64bit Ubuntu10．04 でも動きました。
+ * 後は知りません。
  * 画像はここのものを使ってます。
  * http://foxkeh.jp/downloads/materials/
  * http://foxkeh.jp/downloads/parts/
