@@ -1,4 +1,5 @@
-{"theme": {"images": {
+{"theme": 
+           {"images": {
                 "theme_frame": "image\/theme_frame.png", 
                 "theme_button_background": "image\/theme_button_background.png", 
                 "theme_tab_background": "image\/theme_tab_background.png",
@@ -7,17 +8,18 @@
             }, 
             "colors": {
                 "frame": [246, 215, 170], 
+                "frame_inactive": [246, 215, 170], 
+                "tab_background_text": [0, 0, 0, 0.7], 
+                "tab_text": [0, 0, 0], 
+                "toolbar": [245, 203, 98, 1], 
+                "bookmark_text": [0, 0, 5],
                 "ntp_background": [245, 203, 98], 
                 "ntp_link": [0, 0, 0], 
                 "ntp_section_text": [0, 0, 0], 
-                "ntp_text": [0, 0, 0], 
+                "ntp_text": [0, 0, 0, 0.8], 
                 "ntp_section": [245, 203, 98, 0.2],
                 "ntp_section_link": [0, 0, 0], 
-                "ntp_header": [245, 203, 98, 1], 
-                "tab_background_text": [0, 0, 0], 
-                "tab_text": [0, 0, 0], 
-                "toolbar": [96, 96, 96], 
-                "bookmark_text": [0, 0, 5]
+                "ntp_header": [245, 203, 98, 1]
             }, 
             "tints": {
                 "buttons": [0.001, 0, 0.5]
@@ -25,9 +27,9 @@
             "properties": {
                 "ntp_background_repeat": "no-repeat", 
                 "ntp_logo_alternate": 0, 
-                "ntp_background_alignment": "right top"
+                "ntp_background_alignment": "right"
             }
         }, 
-        "version": "0.0.2", 
+        "version": "0.0.3", 
         "name": "Foxkeh Theme"
 }

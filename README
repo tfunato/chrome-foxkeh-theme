@@ -15,6 +15,11 @@
  * 
  * ライセンスを書くのも書かないのも怒られるので。WTFPLです。
  * Licensed under the WTFPL (http://sam.zoy.org/wtfpl/).
+ *
+ * Date: 2012/02/12
+ * ・Chrome 19でデザインが崩れるのを修正した.
+ * version 0.0.3
+ *
  * Date: 2010/10/16
  * ・Chrome８でデザインが崩れるのを修正した
  * version 0.0.2
